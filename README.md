@@ -12,10 +12,9 @@ The project focuses on movement control, collision detection, and basic game log
 
 ### 🧠 Project Highlights
 
-- **PlayerController.cs** manages keyboard-based ball movement using Unity physics.
-- Prefabs such as walls and goal points are included to illustrate level design structure.
-- All materials, textures, and scripts are preserved for reconstruction or reuse.
-- The game was built using Unity's Rigidbody and Collider systems for smooth physical interaction.
+`PlayerController.cs` manages keyboard-based character movement using Unity's physics system.  
+The project showcases basic gameplay mechanics like movement, collision detection, and goal completion.  
+Although assets like prefabs and scene files are missing, the core logic script remains available and reusable.
 
 
 ### 🚀 How to Use
