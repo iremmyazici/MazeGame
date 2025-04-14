@@ -6,8 +6,8 @@
 
 ## 🎮 MazeGame – 3D Maze Game Developed with Unity
 
-MazeGame is a 3D puzzle game project built in Unity using C#. The player controls a ball and navigates through a maze to reach a goal. The project focuses on movement control, collision handling, and basic game logic.
-
+MazeGame is a 3D puzzle game project built in Unity using C#. The player controls a character navigating through a maze, trying to reach the goal without hitting obstacles.
+The project focuses on movement control, collision detection, and basic game logic.
 > ⚠️ Please note: The original Unity scene file (`MainScene.unity`) was lost, but the core logic and components — such as scripts, prefabs, and materials — are still available in the repository.
 
 ### 🧠 Project Highlights
